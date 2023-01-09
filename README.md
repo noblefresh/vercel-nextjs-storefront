@@ -1,5 +1,3 @@
-# <Vercel Ecommerce: Ecommerce store with Next.js + Medusa + Stripe>
-
 This repository is the codebase of tutorial [Vercel Ecommerce: Ecommerce store with Next.js + Medusa + Stripe](tutorial-link).
 
 [Medusa Documentation](https://docs.medusajs.com/) | [Medusa Website](https://medusajs.com/) | [Medusa Repository](https://github.com/medusajs/medusa)
